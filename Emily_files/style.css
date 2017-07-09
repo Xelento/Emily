@@ -175,7 +175,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	display: table;
 	width: 100%;
 	padding: 0;
-	background: url(../img/juja-han-149998.jpg) no-repeat center center;
+	background: url(http://osts237pz.bkt.clouddn.com/Emily-2.jpg) no-repeat center center;
 	background-color: rgba(255,215,0,1.00);
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -242,7 +242,7 @@ header .intro-text {
 	padding: 0 0 60px 0;
 }
 #restaurant-menu .section-title {
-	background: rgba(211,195,0,1.00) url(../img/daiga-ellaby-233070.jpg) center center no-repeat fixed;
+	background: rgba(211,195,0,1.00) url(http://osts237pz.bkt.clouddn.com/Emily-1.jpg) center center no-repeat fixed;
 	background-size: cover;
 }
 #restaurant-menu .section-title h2 {
@@ -295,7 +295,7 @@ header .intro-text {
 	padding: 0 0 120px 0;
 }
 #portfolio .section-title {
-	background: rgba(211,195,0,1.00) url(../img/jason-blackeye-290441.jpg) center center no-repeat fixed;
+	background: rgba(211,195,0,1.00) url(http://osts237pz.bkt.clouddn.com/Emily-4.jpg) center center no-repeat fixed;
 	background-size: cover;
 	margin-bottom: 50px;
 }
@@ -415,7 +415,7 @@ ol.type li a:hover {
 /* Team Section */
 #team {
 	color: #fff;
-	background: rgba(211,195,0,1.00) url(../img/julia-komarova-78099.jpg) center top no-repeat fixed;
+	background: rgba(211,195,0,1.00) url(http://osts237pz.bkt.clouddn.com/Emily-3.jpg) center top no-repeat fixed;
 	background-size: cover;
 }
 #team .overlay {
